@@ -11,8 +11,8 @@ function getTriangleArea (a, h) {
 
 console.log(getTriangleArea(-2, 6));
 
-var zm1 = getTriangleArea(3,10);
-var zm2 = getTriangleArea(4,10);
-var zm3 = getTriangleArea(5,12);
+var triangle1Area = getTriangleArea(3,10);
+var triangle2Area = getTriangleArea(4,10);
+var triangle3Area = getTriangleArea(5,12);
 
-console.log(zm1, zm2, zm3);
+console.log(triangle1Area, triangle2Area, triangle3Area);
